@@ -1,0 +1,11 @@
+C:\Users\lbfpalmieri\Desktop\Class142\Class142\bin\Debug\netcoreapp2.1\Class142.deps.json
+C:\Users\lbfpalmieri\Desktop\Class142\Class142\bin\Debug\netcoreapp2.1\Class142.runtimeconfig.json
+C:\Users\lbfpalmieri\Desktop\Class142\Class142\bin\Debug\netcoreapp2.1\Class142.runtimeconfig.dev.json
+C:\Users\lbfpalmieri\Desktop\Class142\Class142\bin\Debug\netcoreapp2.1\Class142.dll
+C:\Users\lbfpalmieri\Desktop\Class142\Class142\bin\Debug\netcoreapp2.1\Class142.pdb
+C:\Users\lbfpalmieri\Desktop\Class142\Class142\obj\Debug\netcoreapp2.1\Class142.csprojAssemblyReference.cache
+C:\Users\lbfpalmieri\Desktop\Class142\Class142\obj\Debug\netcoreapp2.1\Class142.csproj.CoreCompileInputs.cache
+C:\Users\lbfpalmieri\Desktop\Class142\Class142\obj\Debug\netcoreapp2.1\Class142.AssemblyInfoInputs.cache
+C:\Users\lbfpalmieri\Desktop\Class142\Class142\obj\Debug\netcoreapp2.1\Class142.AssemblyInfo.cs
+C:\Users\lbfpalmieri\Desktop\Class142\Class142\obj\Debug\netcoreapp2.1\Class142.dll
+C:\Users\lbfpalmieri\Desktop\Class142\Class142\obj\Debug\netcoreapp2.1\Class142.pdb
